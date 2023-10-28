@@ -9,3 +9,8 @@ if "33"=> 33 "33" is a string then they can easily can be converted into a numbe
 "33abc"=> this type is a number but the output is NaN (not a number )
 true => 1; false => 0;
 */
+
+//using of comprasion operator 
+
+console.log("2"==2)// i will give output as a true but 
+console.log("2"===2)//it will give the output as a false becouse === is sstrict chek it will cheak the datatype as well and value 
